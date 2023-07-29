@@ -2,7 +2,6 @@
 
 Welcome to GIDDY UP!-GRADE, an immersive NFT horse racing game that offers true ownership, strategic gameplay, and a vibrant community. 
 
-![GIDDY UP!-GRADE](https://example.com/giddy-upgrade-preview.png)
 
 ## Installation
 
